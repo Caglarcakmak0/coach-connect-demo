@@ -1,1 +1,0 @@
-import{j as o}from"./vendor-ui-BiE58rDL.js";import{i as s,r as m,N as i}from"./vendor-react-Dkfozpdn.js";import{u}from"./index-BZtCadvB.js";import"./vendor-charts-pEGq99fH.js";function d(){const[a]=s(),t=a.get("variant")||"premium",{enterDemoMode:e,isDemoMode:r}=u();return m.useEffect(()=>{r||e(t)},[e,r,t]),r?o.jsx(i,{to:"/dashboard",replace:!0}):null}export{d as default};
